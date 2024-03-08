@@ -1,5 +1,7 @@
 #ProResp
-WinBerries is an automated desktop application for controlling and monitoring a fruit respiration measurement apparatus. 
+
+
+ProResp is an automated desktop application for controlling and monitoring a fruit respiration measurement apparatus. 
 Developed in C#, the modular system integrates CO2 analyzers, flow meters, environmental sensors, and pneumatic valve actuation hardware to acquire respiration data from sealed test chambers.
 
 The object-oriented .NET application coordinates multi-threaded asynchronous workflows for system operation, data acquisition, instrument interfacing, and visualization. 
