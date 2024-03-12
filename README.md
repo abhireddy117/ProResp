@@ -8,4 +8,4 @@ Key accomplishments include improving measurement accuracy by 18% through automa
 
 
 
-This was a custom built application for Washington State University Horticulture by Abhilash Ambati and 
+This was a custom built application for Washington State University Horticulture by Abhilash Ambati and Zachary Hall
