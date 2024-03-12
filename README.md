@@ -4,3 +4,8 @@ ProResp is an automated desktop application for controlling and monitoring a fru
 The object-oriented .NET application coordinates multi-threaded asynchronous workflows for system operation, data acquisition, instrument interfacing, and visualization. It features automated test sequencing, hardware diagnostics, sensor calibration, real-time charting/monitoring, and data logging capabilities. The architecture leverages hardware abstraction layers and asynchronous programming models for optimized parallel processing.
 
 Key accomplishments include improving measurement accuracy by 18% through automated calibration routines, and reducing test cycles by 37% after analyzing over 10K data points. The application streamlines the respiration testing process, centralizing data sources and hardware control for improved productivity. It ensures accurate, repeatable multi-sensor measurements through comprehensive automation and monitoring features.
+
+
+
+
+This was a custom built application for Washington State University Horticulture by Abhilash Ambati and 
